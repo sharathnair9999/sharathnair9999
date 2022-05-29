@@ -12,7 +12,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sharath99/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/sharathnair9999" height="30" width="40" /></a>
-  <a href="https://www.twitter.com/Nairified" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="https://www.twitter.com/Nairified" height="30" width="40" /></a>
+  <a href="https://www.twitter.com/sharathnair9999" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="https://www.twitter.com/sharathnair9999" height="30" width="40" /></a>
 </p>
 
 ### [Read My Blogs](https://sharathcodes.hashnode.dev/)
