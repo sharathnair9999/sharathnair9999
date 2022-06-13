@@ -8,6 +8,8 @@
 
 - 📫 [Reach out to me](mailto:sharathnair9999@gmail.com)
 
+- [My Resume](https://drive.google.com/file/d/1rYFuIBqycb8a299dFRkbC-s7MGbw00d_/view?usp=sharing)
+
 ***Connect With me***
 
 <p align="left">
