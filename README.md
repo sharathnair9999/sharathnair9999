@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=sharathnair9999&color=blue)
 
 
-- 👨‍💻 All of my projects are available [here](https://sharath-nair9999.netlify.app)
+- 👨‍💻 All of my projects are available [here](https://www.sharathnair.me/)
 
 - 📫 [Reach out to me](mailto:sharathnair9999@gmail.com)
 
