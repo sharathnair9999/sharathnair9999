@@ -8,7 +8,7 @@
 
 - 📫 [Reach out to me](mailto:sharathnair9999@gmail.com)
 
-- [My Resume](https://drive.google.com/file/d/1COOQ-9hsxHybQO9jGBYIta-Mnd85BRFq/view?usp=sharing)
+- [My Resume](https://cdn.sanity.io/files/hl8ayhlw/production/4ffac5636b910b081821c02e3fa4b43cf4677947.pdf)
 
 ***Connect With me***
 
