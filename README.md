@@ -4,11 +4,11 @@
 ![](https://komarev.com/ghpvc/?username=sharathnair9999&color=blue)
 
 
-- 👨‍💻 All of my projects are available [here](https://www.sharathnair.me/)
+- 👨‍💻 All of my projects are available [here](https://sharath-nair.vercel.app/)
 
 - 📫 [Reach out to me](mailto:sharathnair9999@gmail.com)
 
-- [My Resume](https://cdn.sanity.io/files/hl8ayhlw/production/4ffac5636b910b081821c02e3fa4b43cf4677947.pdf)
+- [My Resume](https://cdn.sanity.io/files/hl8ayhlw/production/19357a30fa98394787b42e2c9873408bc0bebd88.pdf)
 
 ***Connect With me***
 
